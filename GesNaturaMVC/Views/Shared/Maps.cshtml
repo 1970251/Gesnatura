@@ -1,0 +1,83 @@
+﻿@model IEnumerable<GesPhloraClassLibrary.Models.Percurso>
+
+
+@*<head>
+  <link rel="stylesheet" href="style.css" />
+</head>*@
+
+
+
+<style>
+  
+  #map {
+    height: 400px;
+    width: 100%;
+  }
+  
+</style>
+<script>
+  var src = 'https://www.dropbox.com/s/fdramvkkp1cd727/teste.kml?dl=1';
+   
+  var map;
+  function initMap() {
+    
+    var model = @Html.Raw(Json.Encode(Model));
+    console.dir(model);
+
+    var centro = { lat: model[0].GPS_Lat_Inicio, lng: model[0].GPS_Long_Inicio }
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 7,
+      center: centro,
+      mapTypeId: 'hybrid'
+    });
+    var infowindow = new google.maps.InfoWindow();
+    for (var i = 0; i < model.length; i++) {
+      
+      var item = model[i];
+      var infoWindowContent = item.Nome;
+      var coord = { lat: item.GPS_Lat_Inicio, lng: item.GPS_Long_Inicio };
+           
+      var marker = new google.maps.Marker({
+        position: coord,
+        map: map,
+        icon: "https://www.dropbox.com/s/7zs5s8m94m6i09u/hiking.png?dl=1"
+      });
+      google.maps.event.addListener(marker, 'click', (function (marker, i) {
+        return function () {
+          var str = '<div>' +
+            '<font size="3">' + model[i].Nome + '</font>' + '</div>' +
+            '<div>' + model[i].Descricao + '</div>';
+
+          infowindow.setContent(str);
+          infowindow.open(map, marker);
+        }
+      })(marker, i)); 
+     
+    }
+    
+   
+  }
+  //(function (marker, data) {
+  //  google.maps.event.addListener(marker, "click", function (e) {
+  //    infoWindow.setContent(data.description);
+  //    infoWindow.open(map, marker);
+  //  });
+  //})(marker, data);
+
+  function loadKmlLayer(src, map) {
+    var kmlLayer = new google.maps.KmlLayer(src, {
+      suppressInfoWindows: true,
+      preserveViewport: false,
+      map: map
+    });
+  }
+
+</script>
+<div id="map"></div>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEBJUK6YsccYEXnT_S2PU8PN5zXxkc4Fs&callback=initMap">
+</script>
+@*<script src="~/Scripts/mapScript.js"></script>*@
+
+

@@ -1,0 +1,48 @@
+﻿@model GesPhloraClassLibrary.Models.FotoAtlas
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>FotoAtlas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Especie.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Especie.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Caminho)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caminho)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aprovado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aprovado)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

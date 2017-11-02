@@ -1,0 +1,96 @@
+﻿@model IEnumerable<GesPhloraClassLibrary.Models.Percurso>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Percursos Pedestres</h2>
+    <p>
+      @Html.ActionLink("Create New", "Create")
+    </p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Tipologia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Distancia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DuracaoAproximada)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dificuldade)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.GPS_Lat_Inicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GPS_Long_Inicio)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.KmlPath)
+        </th>*@
+        <th></th>
+    </tr>
+
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.Nome,"Details","Percursos", new { Id = item.ID }, null)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipologia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Distancia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DuracaoAproximada)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dificuldade)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.GPS_Lat_Inicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GPS_Long_Inicio)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.KmlPath)
+        </td>*@
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @*@Html.ActionLink("Details", "Details", new { id=item.ID }) |*@
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>
+@Html.Partial("Maps")
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            One of three columns
+        </div>
+        <div class="col-sm">
+            One of three columns
+        </div>
+        <div class="col-sm">
+            One of three columns
+        </div>
+    </div>
+</div>

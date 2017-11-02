@@ -1,0 +1,229 @@
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.dll.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Owin.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.dll.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Dropbox.Api.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\Dropbox.Api.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC\GesNaturaMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.dll.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Owin.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Dropbox.Api.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.dll.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Dropbox.Api.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.pdb
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Luís\Documents\Visual Studio 2017\Projects\GesNaturaMVC - Cópia\GesNaturaMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\ApplicationInsights.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.exe
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.exe.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\csc.rsp
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\csi.exe
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\csi.rsp
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\System.AppContext.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.exe
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.exe.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\vbc.rsp
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.dll.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.Tests.pdb
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Razor.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Owin.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\EntityFramework.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.pdb
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesNaturaMVC.dll.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Razor.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.pdb
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll.config
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\EntityFramework.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.csprojResolveAssemblyReference.cache
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\obj\Debug\GesNaturaMVC.Tests.pdb
