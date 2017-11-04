@@ -41,7 +41,12 @@
       var marker = new google.maps.Marker({
         position: coord,
         map: map,
-        icon: "https://www.dropbox.com/s/7zs5s8m94m6i09u/hiking.png?dl=1"
+        icon: {
+            path: google.maps.SymbolPath.CIRCLE,
+            scale: 3,
+            strokeWeight: 8,
+            strokeColor: "#B40404"
+        }
       });
       google.maps.event.addListener(marker, 'click', (function (marker, i) {
         return function () {

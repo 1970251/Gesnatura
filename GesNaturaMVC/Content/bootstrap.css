@@ -1611,17 +1611,7 @@ pre code {
             opacity: 0;
         }
 
-#div-left{
-    width:50%;
-    overflow:hidden;
-    float:left;
 
-}
-#div-right{
-    width:50%;
-    overflow:hidden;
-    float:left;
-}
 @media (min-width: 768px) {
   .container {
     width: 750px;

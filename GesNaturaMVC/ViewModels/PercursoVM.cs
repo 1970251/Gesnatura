@@ -12,6 +12,8 @@ namespace GesNaturaMVC.ViewModels
         public string Descricao { get; set; }
         public string Tipologia { get; set; }
         public int Distancia { get; set; }
+        public int Duracao { get; set; }
+        public string Dificuldade { get; set; }
         public string Kml { get; set; }
         public float Latitude { get; set; }
         public float Longitude { get; set; }

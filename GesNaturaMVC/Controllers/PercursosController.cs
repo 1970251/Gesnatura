@@ -42,6 +42,9 @@ namespace GesNaturaMVC.Controllers
             percursoVM.Nome = percurso.Nome;
             percursoVM.Descricao = percurso.Descricao;
             percursoVM.Distancia = percurso.Distancia;
+            percursoVM.Duracao = percurso.DuracaoAproximada;
+            percursoVM.Dificuldade = percurso.Dificuldade;
+            percursoVM.Tipologia = percurso.Tipologia;
 
             percursoVM.Latitude = percurso.GPS_Lat_Inicio;
             percursoVM.Longitude = percurso.GPS_Long_Inicio;

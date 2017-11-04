@@ -8,7 +8,7 @@
     <p>
       @Html.ActionLink("Create New", "Create")
     </p>
-
+<div id="div-left">
 <table class="table">
     <tr>
         <th>
@@ -80,17 +80,9 @@
 }
 
 </table>
-@Html.Partial("Maps")
-<div class="container">
-    <div class="row">
-        <div class="col-sm">
-            One of three columns
-        </div>
-        <div class="col-sm">
-            One of three columns
-        </div>
-        <div class="col-sm">
-            One of three columns
-        </div>
-    </div>
 </div>
+
+<div id="div-right">
+@Html.Partial("Maps")
+</div>
+
