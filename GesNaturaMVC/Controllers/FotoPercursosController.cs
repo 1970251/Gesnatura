@@ -41,12 +41,12 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: FotoPercursos/Create
-        public ActionResult Create(float lat, float lng)
+        public ActionResult Create(float lat, float lng, int perc)
         {
             FotoPercursos fp = new FotoPercursos();
             fp.GPS_Lat = lat;
             fp.GPS_Long = lng;
-            //fp.PercursoID = perc;
+            fp.PercursoID = perc;
             ViewBag.PercursoID = new SelectList(db.Percursos, "ID", "Nome");
             return View(fp);
         }
@@ -72,16 +72,18 @@ namespace GesNaturaMVC.Controllers
 
                     // store the file inside ~/Foto folder
                     //string strID = animalFoto.ID.ToString();
-                    string _path = Path.Combine(Server.MapPath("~/Foto"), _FileName);
+                    string _path = Path.Combine(Server.MapPath("~/Content/Images"), _FileName);
 
                     File.SaveAs(_path);
-                    //string caminho ="~/Foto"+ _FileName;
-                    fotoPercursos.Caminho = _FileName;
+                    string caminho ="Content/Images/"+ _FileName;
+                    fotoPercursos.Caminho = caminho;
                 }
                 db.FotoPercursos.Add(fotoPercursos);
                 await db.SaveChangesAsync();
-                //return RedirectToAction("Details", "Percursos", new { id = perc });
-                return RedirectToAction("Index");
+                //return RedirectToAction("Index");
+                return RedirectToAction("Details", "Percursos", new { id = fotoPercursos.PercursoID });
+                
+                
             }
 
             ViewBag.PercursoID = new SelectList(db.Percursos, "ID", "Nome", fotoPercursos.PercursoID);

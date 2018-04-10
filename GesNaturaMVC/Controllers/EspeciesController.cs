@@ -10,6 +10,7 @@ using System.Web.Mvc;
 using GesNaturaMVC.DAL;
 using GesPhloraClassLibrary.Models;
 using GesNaturaMVC.ViewModels;
+using System.Web.Routing;
 
 namespace GesNaturaMVC.Controllers
 {
@@ -29,7 +30,7 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: Especies/Details/5
-        public async Task<ActionResult> Details(int? id)
+        public ActionResult Details(int? id)
         {
             if (id == null)
             {
@@ -37,7 +38,7 @@ namespace GesNaturaMVC.Controllers
             }
             Especie especie = db.Especies.Where(e => e.ID == id).Include("Fotos").
                 Include("Genero.Familia.Ordem.Classe.Reino").FirstOrDefault();
-           
+
 
             EspecieViewModel especieVM = new EspecieViewModel();
             especieVM.Nome = especie.Nome;
@@ -47,19 +48,21 @@ namespace GesNaturaMVC.Controllers
             especieVM.Calendario = especie.Calendario;
             especieVM.Abundancia = especie.Abundancia;
             
+
             especieVM.Familia = especie.Genero.Familia.Nome;
-            especieVM.Ordem =   especie.Genero.Familia.Ordem.Nome;
-            especieVM.Classe =  especie.Genero.Familia.Ordem.Classe.Nome;
-            especieVM.Reino =   especie.Genero.Familia.Ordem.Classe.Reino.Nome;
+            especieVM.Ordem = especie.Genero.Familia.Ordem.Nome;
+            especieVM.Classe = especie.Genero.Familia.Ordem.Classe.Nome;
+            especieVM.Reino = especie.Genero.Familia.Ordem.Classe.Reino.Nome;
 
             especieVM.listaFotosVM = new List<FotoAtlasViewModel>();
             string str = "~/";
-            foreach(var item in especie.Fotos)
+            foreach (var item in especie.Fotos)
             {
                 FotoAtlasViewModel fotoVM = new FotoAtlasViewModel();
                 fotoVM.ID = item.ID;
-                
-                fotoVM.Caminho = str+item.Caminho;
+                fotoVM.Aprovado = item.Aprovado;
+
+                fotoVM.Caminho = str + item.Caminho;
                 especieVM.listaFotosVM.Add(fotoVM);
             }
             var nextID = db.Especies.OrderBy(i => i.ID)
@@ -72,10 +75,12 @@ namespace GesNaturaMVC.Controllers
             {
                 return HttpNotFound();
             }
+            
             return View(especieVM);
         }
 
         // GET: Especies/Create
+        [Authorize]
         public ActionResult Create()
         {
             ViewBag.GeneroID = new SelectList(db.Generoes, "ID", "Nome");
@@ -93,7 +98,11 @@ namespace GesNaturaMVC.Controllers
             {
                 db.Especies.Add(especie);
                 await db.SaveChangesAsync();
-                return RedirectToAction("Index");
+
+                return RedirectToAction("Create", "FotoAtlas", new { id = especie.ID });
+                //return RedirectToAction("Create", new RouteValueDictionary(
+                //new { controller = "FotoAtlas", action = "Create", Id = id }));
+
             }
 
             ViewBag.GeneroID = new SelectList(db.Generoes, "ID", "Nome", especie.GeneroID);
@@ -101,6 +110,7 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: Especies/Edit/5
+        [Authorize]
         public async Task<ActionResult> Edit(int? id)
         {
             if (id == null)
@@ -134,6 +144,7 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: Especies/Delete/5
+        [Authorize(Roles ="Admin,Supervisor")]
         public async Task<ActionResult> Delete(int? id)
         {
             if (id == null)

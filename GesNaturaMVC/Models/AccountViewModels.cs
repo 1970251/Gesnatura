@@ -64,6 +64,11 @@ namespace GesNaturaMVC.Models
 
     public class RegisterViewModel
     {
+        // Coloquei 26022018
+        //[Required]
+        //[Display(Name = "UserRoles")]
+        //public string UserRoles { get; set; }
+
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]

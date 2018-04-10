@@ -1,0 +1,19 @@
+﻿@using (Html.BeginForm("UploadFoto", "Upload", FormMethod.Post,
+                            new { enctype = "multipart/form-data" }))
+{
+  @Html.AntiForgeryToken()
+
+  <fieldset>
+    <legend>Upload Foto</legend>
+    <div class="editor-field">
+      @Html.TextBox("file", "", new { type = "file" })
+    </div>
+    <div class="editor-field">
+      <input type="submit" name="Submit" id="Submit,"value="Upload" />
+    </div>
+  </fieldset>
+}
+@if(ViewBag.UploadSucess==true)
+{
+  <span>Upload de foto efetuado com sucesso</span>
+}

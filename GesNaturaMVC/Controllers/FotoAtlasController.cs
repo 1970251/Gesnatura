@@ -8,6 +8,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using GesNaturaMVC.DAL;
+using GesNaturaMVC.ViewModels;
 using GesPhloraClassLibrary.Models;
 using System.IO;
 
@@ -18,6 +19,7 @@ namespace GesNaturaMVC.Controllers
         private GesNaturaDbContext db = new GesNaturaDbContext();
 
         // GET: FotoAtlas
+        [Authorize(Roles ="Admin,Supervisor")]
         public async Task<ActionResult> Index()
         {
             var fotoAtlas = db.FotoAtlas.Include(f => f.Especie);
@@ -25,6 +27,7 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: FotoAtlas/Details/5
+        [Authorize(Roles = "Admin,Supervisor")]
         public async Task<ActionResult> Details(int? id)
         {
             if (id == null)
@@ -40,10 +43,17 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: FotoAtlas/Create
-        public ActionResult Create()
+        //public ActionResult Create()
+        //{
+        //    ViewBag.EspecieID = new SelectList(db.Especies, "ID", "Nome");
+        //    return View();
+        //}
+        public ActionResult Create(Especie espec)
         {
+            FotoAtlas fa = new FotoAtlas();
+            fa.EspecieID = espec.ID;
             ViewBag.EspecieID = new SelectList(db.Especies, "ID", "Nome");
-            return View();
+            return View(fa);
         }
 
         // POST: FotoAtlas/Create
@@ -57,19 +67,36 @@ namespace GesNaturaMVC.Controllers
             {
                 if (File != null && File.ContentLength > 0)
                 {
-                    string _FileName = Path.GetFileName(File.FileName);
+                    int fileSize = File.ContentLength;
+                    int size = 4194304;
+                    if(fileSize < size)
+                    {
+                        string _FileName = Path.GetFileName(File.FileName);
 
-                    // store the file inside ~/App_Data/uploads folder
-                    //string strID = animalFoto.ID.ToString();
-                    string _path = Path.Combine(Server.MapPath("~/Foto"), _FileName);
+                        // store the file inside ~/App_Data/uploads folder
+                        //string strID = animalFoto.ID.ToString();
+                        //string _path = Path.Combine(Server.MapPath("~/Foto"), _FileName);
+                        string _path = Path.Combine(Server.MapPath("~/Content/Images"), _FileName);
 
-                    File.SaveAs(_path);
-                    string caminho = "Foto/" + _FileName;
-                    fotoAtlas.Caminho = caminho;
+                        File.SaveAs(_path);
+                        //string caminho = "Foto/" + _FileName;
+                        string caminho = "Content/Images/" + _FileName;
+                        fotoAtlas.Caminho = caminho;
+                    }
+                    else
+                    {
+                        //ViewBag.ErrorMessage = "Tamanho excedido";
+                        ModelState.AddModelError("Caminho", "Excedido tamanho. Foto < 2MB");
+                        return View();
+                    }
+                    
                 }
+                
                 db.FotoAtlas.Add(fotoAtlas);
                 await db.SaveChangesAsync();
-                return RedirectToAction("Index");
+                return RedirectToAction("Details", "Especies", new { id = fotoAtlas.EspecieID });
+
+                //return RedirectToAction("Index");
             }
 
             ViewBag.EspecieID = new SelectList(db.Especies, "ID", "Nome", fotoAtlas.EspecieID);
@@ -77,6 +104,7 @@ namespace GesNaturaMVC.Controllers
         }
 
         // GET: FotoAtlas/Edit/5
+        [Authorize(Roles = "Admin,Supervisor")]
         public async Task<ActionResult> Edit(int? id)
         {
             if (id == null)

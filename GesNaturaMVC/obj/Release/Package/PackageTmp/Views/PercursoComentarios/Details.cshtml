@@ -1,0 +1,58 @@
+﻿@model GesPhloraClassLibrary.Models.PercursoComentario
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>PercursoComentario</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Percurso.Nome)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Percurso.Nome)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Comentario)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Comentario)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Classificacao)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Classificacao)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DataHora)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DataHora)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

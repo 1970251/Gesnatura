@@ -29,5 +29,7 @@ namespace GesNaturaMVC.DAL
         public DbSet<FotoPercursos> FotoPercursos { get; set; }
 
         public DbSet<FotoPois> FotoPois { get; set; }
+
+        public DbSet<PercursoComentario> PercursoComentarios { get; set; }
     }
 }

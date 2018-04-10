@@ -9,5 +9,6 @@ namespace GesNaturaMVC.ViewModels
     {
         public int ID { get; set; }
         public string Caminho { get; set; }
+        public bool Aprovado { get; set; }
     }
 }

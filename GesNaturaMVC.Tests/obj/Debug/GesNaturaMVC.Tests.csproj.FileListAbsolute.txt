@@ -198,8 +198,8 @@ E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Cor
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Owin.dll
-E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\EntityFramework.dll
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
@@ -217,9 +217,9 @@ E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\System.Web.Optimization.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.pdb
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\GesPhloraClassLibrary.dll.config
-E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\EntityFramework.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 E:\Isep\PESTI\Projeto\GesNaturaMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml

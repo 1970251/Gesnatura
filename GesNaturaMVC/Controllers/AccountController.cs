@@ -141,6 +141,9 @@ namespace GesNaturaMVC.Controllers
         [AllowAnonymous]
         public ActionResult Register()
         {
+            //coloquei 26022018
+            //ViewBag.Name = new SelectList(ApplicationDbContext.context.Roles.Where(u => !u.Name.Contains("Admin"))
+            //                                .ToList(), "Name", "Name");
             return View();
         }
 

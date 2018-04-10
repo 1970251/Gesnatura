@@ -1,0 +1,43 @@
+﻿@model GesNaturaMVC.ViewModels.PercursosViewModel
+
+<style>
+  #map {
+    height: 400px;
+    width: 100%;
+  }
+</style>
+<script>
+  var src = 'https://www.dropbox.com/s/fdramvkkp1cd727/teste.kml?dl=1';
+  var teste = 'http://localhost:57207/Percursos/Ficheiro';
+  var rui = "c:\kml\teste.kml"
+  //var src = 'https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml';
+  var map;
+  function initMap() {
+    var model = @Html.Raw(Json.Encode(Model));
+    var centro = { lat: model[0].GPS_Lat_Inicio, lng: model[0].GPS_Long_Inicio }
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 15,
+      center: centro,
+      mapTypeId: 'satellite'
+    });
+
+
+    }
+    loadKmlLayer(src, map);
+
+  function loadKmlLayer(src, map) {
+    var kmlLayer = new google.maps.KmlLayer(src, {
+      suppressInfoWindows: true,
+      preserveViewport: false,
+      map: map
+    });
+
+
+  }
+
+</script>
+<div id="map"></div>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEBJUK6YsccYEXnT_S2PU8PN5zXxkc4Fs&callback=initMap">
+</script>
